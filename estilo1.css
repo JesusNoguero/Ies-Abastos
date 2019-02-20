@@ -48,6 +48,16 @@ h1 {
     color: blue;
     text-transform: uppercase;
 }
+ object {
+    float: right;
+    width: 425px;
+    height: 350px;
+     
+}
+p.video {
+  text-align: right;
+  float: right;
+}
 
 main p {
     position: absolute;
